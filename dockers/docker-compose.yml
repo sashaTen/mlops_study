@@ -1,0 +1,8 @@
+name  :  my-docker-project
+services :
+    app:
+      image: my-docker-img 
+      container_name: my-docker-container 
+      ports : 
+         - "8001:8000"
+         
