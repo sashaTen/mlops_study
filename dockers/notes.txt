@@ -3,3 +3,62 @@ building, training, testing, and deployin
 
 read  about   stock  predictions .   
 maybe   chat bot  for the stock  analysis .  
+----------
+FROM MAN VS. MACHINE TO MAN + MACHINE:
+THE ART AND AI OF STOCK ANALYSES
+Sean Cao
+Wei Jiang
+Junbo L. Wang
+Baozhong Yang
+
+
+*investment advisors
+*1 year end predcition   model  they  buuilt 
+*they collect firm-level, industry-level, and macro-economic
+variables, as well as textual information from firms’ disclosure (updated to right before the
+time of an analyst forecast) as inputs or predictors.
+*investment   advisor   ai   chat .  
+*e Fama-French-Carhart four-factor model.    
+*We find human analysts perform better for more illiquid, smaller firms, and firm
+with asset-light business models (i.e., higher intangible assets) require better institutional
+knowledge or industry experience to decipher.
+*recent   events   that  ai   cannot   catch up  
+*human art of understanding soft information  information that is not easily measurable or quantifiable
+
+
+
+------Understanding of Machine Learning with Deep Learning:
+Architectures, Workflow, Applications and Future Directions
+Mohammad Mustafa Taye
+
+
+existing research gaps. Various approaches, deep learning architectures, strategies, and applications
+\
+
+-----------Artificial intelligence research: A review on dominant themes, methods,
+frameworks and future research directions
+Kingsley Ofosu-Ampong a,
+*AI in information systems research
+*Enhanced Decision Support Systems: AI-powered decision support systems (DSS) are an area of growing interest.
+*Continuous Learning Systems
+*. The sub-themes under technology issues consist of data quality and
+quantity, bias, model interpretability, scalability, ethical AI design,
+explainable AI (XAI), AI governance and regulation,  architecture.
+*AI is underpinned by technical
+elements like machine learning, deep learning, NLP, speech recognition,
+fuzzy logic and expert systems
+*AI needs significant
+improvement based on high-quality data in the form of 4 Vs (volume,
+velocity, veracity and variety).
+*AI should be premised on a new explainable and robust AI
+theory
+
+*. Some of the AI services
+include customer support and chatbots, predictive analytics, recommendation systems, fraud detection, voice assistance, content generation, healthcare diagnostics and security and threat detection
+*Data security emphasises the foundation of trust
+*Researchers in this space focus on data classification
+and minimization, anonymization and masking of data and developing
+threat detection and response mechanisms
+*  autoonomous   ai  
+* information systems design and  development 
+*  learnability.  
