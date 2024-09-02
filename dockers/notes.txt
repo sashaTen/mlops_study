@@ -1,3 +1,5 @@
 pipelines    : 
 building, training, testing, and deployin
 
+read  about   stock  predictions .   
+maybe   chat bot  for the stock  analysis .  
