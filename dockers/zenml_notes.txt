@@ -1,0 +1,9 @@
+Automated Deployment: ZenML streamlines model deployment by automatically deploying it when defined as a pipeline,
+ eliminating the need for custom docker images.
+ Artifacts: Inputs and outputs from each step in the pipeline.
+Artifact Store: A versioned repository for storing artifacts, enhancing pipeline execution speed.
+ ZenML provides a local store by default, stored on your local system.
+ ZenML Server: Used for deploying ML models and making predictions.
+
+ https://medium.com/@kattsonbastos/mlops-with-zenml-and-mlflow-how-can-we-build-a-model-training-pipeline-a-practical-example-6a5f24f5eefc
+ 
