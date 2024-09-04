@@ -43,25 +43,14 @@ y_pred = model.predict(X_test_vec)
 print(f'Accuracy: {accuracy_score(y_test, y_pred)}')
 print('Classification Report:')
 print(classification_report(y_test, y_pred))
-'''
 
-# Save the model and vectorizer
 joblib.dump(model, 'sentiment_model.pkl')
 joblib.dump(vectorizer, 'vectorizer.pkl')
 
 # Load the model and vectorizer
-loaded_model = joblib.load('sentiment_model.pkl')
-loaded_vectorizer = joblib.load('vectorizer.pkl')
+
 
 # Example text for inference
-example_text = ["I love this movie, it was fantastic!"]
 
 # Transform the example text
-example_text_vec = loaded_vectorizer.transform(example_text)
 
-# Make a prediction
-prediction = loaded_model.predict(example_text_vec)
-
-# Output the prediction
-print(f'Predicted sentiment: {prediction[0]}')
-'''
